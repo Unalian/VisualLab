@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/una/newroot/CLionProjects/visualLab2.1/ColormapRenderer.h
+Renderer.h
+/Users/una/newroot/CLionProjects/visualLab2.1/Renderer.h
+
+/Users/una/newroot/CLionProjects/visualLab2.1/Grid.h
+
+/Users/una/newroot/CLionProjects/visualLab2.1/Renderer.h
+
+/Users/una/newroot/CLionProjects/visualLab2.1/ScalarAttributes.h
+vector
+-
+
+/Users/una/newroot/CLionProjects/visualLab2.1/UniformGrid.h
+Grid.h
+/Users/una/newroot/CLionProjects/visualLab2.1/Grid.h
+ScalarAttributes.h
+/Users/una/newroot/CLionProjects/visualLab2.1/ScalarAttributes.h
+
+/Users/una/newroot/CLionProjects/visualLab2.1/sampleUniformGridScalars.cpp
+OpenGL/gl.h
+-
+OpenGL/opengl.h
+-
+GLUT/glut.h
+-
+UniformGrid.h
+/Users/una/newroot/CLionProjects/visualLab2.1/UniformGrid.h
+ColormapRenderer.h
+/Users/una/newroot/CLionProjects/visualLab2.1/ColormapRenderer.h
+iostream
+-
+math.h
+-
+

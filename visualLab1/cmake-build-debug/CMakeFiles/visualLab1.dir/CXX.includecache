@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Point3d.h
+math.h
+-
+OpenGL/gl.h
+-
+OpenGL/opengl.h
+-
+GLUT/glut.h
+-
+
+../include/Quad.h
+OpenGL/gl.h
+-
+OpenGL/opengl.h
+-
+GLUT/glut.h
+-
+
+/Users/una/newroot/CLionProjects/visualLab1/main.cpp
+iostream
+-
+math.h
+-
+Quad.h
+/Users/una/newroot/CLionProjects/visualLab1/Quad.h
+Point3d.h
+/Users/una/newroot/CLionProjects/visualLab1/Point3d.h
+stdio.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,3 @@
+/Users/una/newroot/CLionProjects/visualLab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/una/newroot/CLionProjects/visualLab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/una/newroot/CLionProjects/visualLab1/cmake-build-debug/CMakeFiles/visualLab1.dir
